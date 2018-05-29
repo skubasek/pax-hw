@@ -59,7 +59,7 @@ N - length of string
 M - number of Xs
 
 RUNNING:
-If you follow are in pax-hw directory, you can execute:
+From pax-hw directory (see challenge 2), you can execute:
 java -cp . com.sk.hw_3.xo.XoPrinter XX
 00
 01
